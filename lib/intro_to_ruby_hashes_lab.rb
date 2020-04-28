@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  my_hash = { :milk => white, :jam => purple}
+  my_hash = { :milk => "white", :jam => "purple"}
 end
 
 def pioneer
